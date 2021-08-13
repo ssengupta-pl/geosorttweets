@@ -7,3 +7,5 @@ export ACCESS_TOKEN_SECRET=4lz1RPILhtlQBYYkRlttzdUB2w0Ht2NuJJNcjWdPBcVBD
 Also make sure that the AWS connectivity is set up.
 
 Source in the twitter-secrets.sh file and then run the Python program.
+
+This can be saved in GH.
